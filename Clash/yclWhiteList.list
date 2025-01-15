@@ -2,6 +2,8 @@
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
+DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,q19jcg.com
 IP-CIDR,36.150.0.0/16,no-resolve
 
 # CN域名直连(中国|公司|网络)
